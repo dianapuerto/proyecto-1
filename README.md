@@ -1,6 +1,6 @@
 # proyecto-1
 Diana Puerto - Lider
-Juan Diego MOreno - Constructor
+Juan Diego Moreno - Constructor
 Germán Cortés - Constructor 
 Elian Delgado - Diseñador 
 Edgar Rincon - Programador

@@ -9,9 +9,8 @@ Juan Fonseca - Programador
 Nuestra metodologia de trabajo para este proyecto esta basada a partir de un diseño como kiss principle que consta en una elimianación de cosas innecesarias para permitir un desarrollo, claro, simplificado y bueno del proyecto.
 Así realizaremos el diseño de un vehiculo de transporte eficaz que será controlado a traves de bluetooth mediante una placa arduino 
 
-
-
-
+Arduino es una plataforma de hardware y software de código abierto, basada en una sencilla placa con entradas y salidas, analógicas y digitales, en un entorno de desarrollo que está basado en el lenguaje de programación Processing. Es decir, una plataforma de código abierto para prototipos electrónicos.
+Al ser open source, tanto su diseño como su distribución, puede utilizarse libremente para el desarrollo de cualquier tipo de proyecto sin necesidad de licencia.
 
 
 ¿Qué Partes Componen El Arduino?
@@ -35,4 +34,5 @@ La principal IC en el Arduino es ligeramente diferente del tipo de placa a placa
 
 Regulador de Voltaje 
 Esto no es realmente algo que se puede (o debe) interactuar con el Arduino. Pero es potencialmente útil para saber que está ahí y para qué sirve. El regulador de voltaje hace exactamente lo que dice - que controla la cantidad de tensión que se deja en la placa Arduino.
+
 

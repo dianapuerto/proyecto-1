@@ -10,7 +10,7 @@ Diagrama pictórico
 
 Diagrama esquemático
 
-![3]((https://github.com/dianapuerto/proyecto-1/blob/master/imagenes/elianol.2.jpg)
+![3](https://github.com/dianapuerto/proyecto-1/blob/master/imagenes/elianol.2.jpg)
 
 Evidencia
 

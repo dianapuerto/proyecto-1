@@ -23,3 +23,4 @@ La principal IC en el Arduino es ligeramente diferente del tipo de placa a placa
 
 Regulador de Voltaje 
 Esto no es realmente algo que se puede (o debe) interactuar con el Arduino. Pero es potencialmente útil para saber que está ahí y para qué sirve. El regulador de voltaje hace exactamente lo que dice - que controla la cantidad de tensión que se deja en la placa Arduino.
+![2](https://github.com/dianapuerto/proyecto-1/blob/master/imagenes/Arduino%20Mega.PNG)

@@ -17,7 +17,7 @@ La placa Arduino se conecta de uno de los pin de 5v a uno de los buses del proto
 **Diagrama pictórico**
 
 
-![2](https://github.com/dianapuerto/proyecto-1/blob/master/imagenes/elianol.jpg)
+![2](https://github.com/dianapuerto/proyecto-1/blob/master/imagenes/ferndinanf.jpg)
 
 **Diagrama esquemático**
 
